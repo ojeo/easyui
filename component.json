@@ -2,7 +2,7 @@
     "repos": "https://github.com/ojeo/easyui.git",
     "version": "1.5.0",
     "description": "easyui",
-    "main": "bootstrap.js",
+    "main": "jquery.easyui.min.js",
     "dependencies": [
         "jquery@>=1.6"
     ],
